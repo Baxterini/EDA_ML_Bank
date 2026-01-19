@@ -1,0 +1,14 @@
+__pycache__/
+.env
+
+# Data files
+*.parquet
+train.parquet
+test.parquet
+
+# Logs
+*.log
+nbconvert_log.txt
+
+# Jupyter
+.ipynb_checkpoints/
